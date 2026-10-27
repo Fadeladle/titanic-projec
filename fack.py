@@ -132,7 +132,7 @@ print("\nDecision Tree")
 print("Accuracy:", accuracy_score(y_test, y_pred2))
 
 print(
-    classification_report(
+    classification_repot(
         y_test,
         y_pred2
     )
